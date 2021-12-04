@@ -104,7 +104,6 @@
 		<set name="skillType" val="NOTDONE" />
 		<set name="operateType" val="OP_PASSIVE" />
 	</skill>
-	<skill id="7029" levels="4" name="Super Haste">
 		<!-- GM Skill -->
 		<skill id="7029" levels="4" name="Super Haste">
 
